@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I am Pankaj Doharey (Metacritical) 👋
+> I am a Fullstack Developer across technologies.
+Currently looking for 🔨work🔨 in Rails or JS or Clojure.
 
 <!--
 **metacritical/metacritical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
