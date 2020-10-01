@@ -1,6 +1,6 @@
 ### Hi there I am Pankaj Doharey (Metacritical) 👋
 > I am a Fullstack Developer.
-- I'm Currently looking for working as a developer with BigBinary 🔨
+- I'm Currently working as a developer with BigBinary 🔨
 
 
 <!--
