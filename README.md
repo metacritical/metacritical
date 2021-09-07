@@ -1,6 +1,6 @@
 ### Hi there I am Pankaj Doharey (Metacritical) 👋
 > I am a Fullstack Developer.
-- I'm Currently a Fullstack Developer at ... 🔨
+
 
 
 <!--
