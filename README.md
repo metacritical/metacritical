@@ -1,7 +1,7 @@
 ### Hi there I am Pankaj Doharey (Metacritical) 👋
 > I am a Fullstack Developer.
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=metacritical&row=4&column=4&theme=onedark)](https://github.com/metacritical)
 
 <!--
 **metacritical/metacritical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
