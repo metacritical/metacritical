@@ -2,7 +2,10 @@
 <h3 align="center">I am a Fullstack (Polyglot) Developer.</h3>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=metacriticall&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=metacriticall&&style=flat-square" align="center" />
+  <a href="https://www.buymeacoffee.com/metcaritical" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"align="center"/>
+  </a>
 </div>
 
 ## Language Status:
@@ -64,12 +67,6 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-<div align="center">
-  <a href="https://www.buymeacoffee.com/metcaritical" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"align="center"/>
-  </a>
-</div>
 <br />
   
   
