@@ -1,3 +1,5 @@
+<h6 align="left">À propos de moi</h6>
+
 <h1 align="center">Hi there👋, i am Pankaj Doharey (Metacritical)</h1>
 <h3 align="center">I am a Fullstack (Polyglot) Developer.</h3>
 
@@ -41,9 +43,13 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
-</div>  
+</div>
+</div>
 
-## Connect with me  
+
+
+## Connect with me
+------------------
 <div align="center">
 <a href="https://github.com/metacritical" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
