@@ -3,7 +3,7 @@
 <h1 align="center">Hi there👋, i am Pankaj Doharey (Metacritical)</h1>
 <h3 align="center">I am a Fullstack (Polyglot) Developer.</h3>
 
-My favorite technologies include Ruby, Rails, React, React Native, Postgres, and Elixir.
+My favorite technologies include Ruby, Rails, React, React Native, Postgres, and Clojurescript.
 
 Besides that i enjoy: 
 
