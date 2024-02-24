@@ -7,8 +7,9 @@ My favorite technologies include Ruby, Rails, React, React Native, Postgres, and
 
 Besides that i enjoy: 
 
-Hiking/Trekking 🏞️
-Working out 🏋🏾
+
+- Hiking/Trekking 🏞️
+- Working out 🏋🏾
 
 
 <div align="center">
