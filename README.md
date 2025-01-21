@@ -3,15 +3,6 @@
 <h1 align="center">Hi there👋, i am Pankaj Doharey (Metacritical)</h1>
 <h3 align="center">I am a Fullstack (Polyglot) Developer.</h3>
 
-My favorite technologies include Ruby, Rails, React, React Native, Postgres, and Clojurescript.
-
-Besides that i enjoy: 
-
-
-# 🏞️  Hiking/Trekking
-# 🏋🏾 Working out 
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=metacriticall&&style=flat-square" align="center" />
   <!-- <a href="https://www.buymeacoffee.com/metacritical" target="_blank" style="display: inline-block;">
